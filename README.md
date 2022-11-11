@@ -1,0 +1,1 @@
+# new-locale-repo-example
